@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 [//]: #(![](https://komarev.com/ghpvc/?username=AhmadHRai&color=blueviolet&style=flat-square&label=Stalkers))
 <img align="left" height="200" src="https://media.giphy.com/media/mBvUaCuDPEXNnIk2NK/giphy.gif" />
+<br clear="both">
 
 ###
 
@@ -71,9 +72,10 @@ You can click the Preview link to take a look at your changes.
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadHRai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadHRai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadHRai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AhmadHRai&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=AhmadHRai&mode=daily&theme=dracula&order=3" height="150" alt="streak graph"  /> -->
+  <a href="https://streak-stats.demolab.com/?user=AhmadHRai&theme=dracula"><img src="https://streak-stats.demolab.com?user=AhmadHRai&theme=dracula" alt="GitHub Streak" /></a>
 </div>
 
 ###
